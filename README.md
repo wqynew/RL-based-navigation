@@ -1,5 +1,5 @@
-# NeoNav
-This is the implementation of our AAAI 2020 paper `NeoNav: Improving the Generalization of Visual Navigation via Generating Next Expected Observations`, training and evaluation on Active Vision Dataset (depth only).<br>
+# Reinforcement Learning-based Visual Navigation with Information-Theoretic Regularization
+This is the implementation of our RA-L paper, training and evaluation on AI2-THOR.<br>
 ## Navigation Model
 ![](https://github.com/wqynew/NeoNav/raw/master/image/overview.png)
 ## Implementation
