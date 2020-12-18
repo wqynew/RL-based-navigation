@@ -8,7 +8,7 @@ This is the implementation of our RA-L paper [arXiv](https://arxiv.org/abs/1912.
 * Please install [AI2-THOR](https://github.com/allenai/ai2thor) Version 2.1.0 and modify the "controller.py" of AI2-THOR as [FILE](https://github.com/wqynew/RL-based-navigation/blob/main/change.txt).
 * Our trained model can be downloaded from [HERE](https://drive.google.com/open?id=182D_0hP7orpJKyDDLlUyV4URwT3Rt0Ux). If you plan to train your own navigation model from scratch, some suggestions are provided:
     * Run the training model: python3 network.py
-    * Please first run on $20$ Kitchen scenes until it converges. Then increase the trining scenes to $40$ (20 for kitchen, 20 for living room.) Finally, you can run on $80$ training scenes.
+    * Please first run on 20 Kitchen scenes until it converges. Then increase the trining scenes to 40 (20 for kitchen, 20 for living room.) Finally, you can run on 80 training scenes.
     
 ### Testing
 * To evaluate our model, please run "python3 eve1_checkpoint.py" 
@@ -51,9 +51,9 @@ This is the implementation of our RA-L paper [arXiv](https://arxiv.org/abs/1912.
 </div>
 
 ## Contact
-To ask questions or report issues please open an issue on the [issues tracker](https://github.com/wqynew/NeoNav/issues).
+To ask questions or report issues please open an issue on the [issues tracker](https://github.com/wqynew/RL-based-navigation/issues).
 ## Citation
-If you use NeoNav in your research, please cite the paper:
+If you use this work in your research, please cite the paper:
 ```
 @article{rlnav2020,
   author    = {Qiaoyun Wu and
