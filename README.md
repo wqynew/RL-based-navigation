@@ -13,6 +13,36 @@ This is the implementation of our RA-L paper [arXiv](https://arxiv.org/abs/1912.
 * To evaluate our model, please run "python3 eve1_checkpoint.py" 
 * The files in './test/evaluation1' are for cross-scene evaluation; The files in './test/evaluation2' are for cross-target evaluation.
 
+## Results
+<div align="center">
+  <table style="width:100%" border="0">
+    <thead>
+        <tr>
+            <th>Cross-scene Generalization on AI2-THOR</th>
+        </tr>
+    </thead>
+    <tbody>
+       <tr>
+         <td align="center" colspan=2><img src='https://github.com/wqynew/NeoNav/blob/master/image/Gif-Home_011_1_001110011030101_001110005720101.gif'></td>
+         <td align="center" colspan=2><img src='https://github.com/wqynew/NeoNav/blob/master/image/Gif-Home_013_1_001310002970101_001310004330101.gif'></td>
+         <td align="center" colspan=2><img src='https://github.com/wqynew/NeoNav/blob/master/image/Gif-Home_011_1_001110011030101_001110005720101.gif'></td>
+         <td align="center" colspan=2><img src='https://github.com/wqynew/NeoNav/blob/master/image/Gif-Home_013_1_001310002970101_001310004330101.gif'></td>
+       </tr>
+    </tbody>
+    <thead>
+        <tr>
+            <th>Transfer to the real world</th>
+        </tr>
+    </thead>
+    <tbody>
+       <tr>
+         <td align="center" colspan=2><img src='https://github.com/wqynew/NeoNav/blob/master/image/Gif-Home_011_1_001110011030101_001110005720101.gif'></td>
+         <td align="center" colspan=2><img src='https://github.com/wqynew/NeoNav/blob/master/image/Gif-Home_013_1_001310002970101_001310004330101.gif'></td>
+       </tr>
+    </tbody>
+  </table>
+</div>
+
 ## Contact
 To ask questions or report issues please open an issue on the [issues tracker](https://github.com/wqynew/RL-based-navigation/issues).
 ## Citation
