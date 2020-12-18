@@ -55,8 +55,17 @@ To ask questions or report issues please open an issue on the [issues tracker](h
 ## Citation
 If you use NeoNav in your research, please cite the paper:
 ```
-@article{wuneonav,
-  title={NeoNav: Improving the Generalization of Visual Navigation via Generating Next Expected Observations},
-  author={Wu, Qiaoyun and Manocha, Dinesh and Wang, Jun and Xu, Kai}
+@article{rlnav2020,
+  author    = {Qiaoyun Wu and
+               Kai Xu and
+               Jun Wang and
+               Mingliang Xu and
+               Dinesh Manocha},
+  title     = {Reinforcement Learning based Visual Navigation with Information-Theoretic
+               Regularization},
+  year      = {2019},
+  url       = {http://arxiv.org/abs/1912.04078},
+  archivePrefix = {arXiv},
+  eprint    = {1912.04078},
 }
 ```
