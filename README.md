@@ -27,10 +27,10 @@ This is the implementation of our RA-L paper [arXiv](https://arxiv.org/abs/1912.
     </thead>
     <tbody>
        <tr>
-         <td align="center" colspan=1><img src='https://github.com/wqynew/NeoNav/blob/master/image/Gif-Home_011_1_001110011030101_001110005720101.gif'></td>
-         <td align="center" colspan=1><img src='https://github.com/wqynew/NeoNav/blob/master/image/Gif-Home_013_1_001310002970101_001310004330101.gif'></td>
-         <td align="center" colspan=1><img src='https://github.com/wqynew/NeoNav/blob/master/image/Gif-Home_011_1_001110011030101_001110005720101.gif'></td>
-         <td align="center" colspan=1><img src='https://github.com/wqynew/NeoNav/blob/master/image/Gif-Home_013_1_001310002970101_001310004330101.gif'></td>
+         <td align="center" colspan=1><img src='https://github.com/wqynew/RL-based-navigation/blob/main/image/Gif-Toaster49.gif'></td>
+         <td align="center" colspan=1><img src='https://github.com/wqynew/RL-based-navigation/blob/main/image/Gif-Television304.gif'></td>
+         <td align="center" colspan=1><img src='https://github.com/wqynew/RL-based-navigation/blob/main/image/Gif-Bed746.gif'></td>
+         <td align="center" colspan=1><img src='https://github.com/wqynew/RL-based-navigation/blob/main/image/Gif-SinkBasin968.gif'></td>
        </tr>
     </tbody>
   </table>
@@ -41,8 +41,8 @@ This is the implementation of our RA-L paper [arXiv](https://arxiv.org/abs/1912.
   <table style="width:100%" border="0">
     <tbody>
        <tr>
-         <td align="center" colspan=2><img src='https://github.com/wqynew/NeoNav/blob/master/image/Gif-Home_011_1_001110011030101_001110005720101.gif'></td>
-         <td align="center" colspan=2><img src='https://github.com/wqynew/NeoNav/blob/master/image/Gif-Home_013_1_001310002970101_001310004330101.gif'></td>
+         <td align="center" colspan=2><img src='https://github.com/wqynew/RL-based-navigation/blob/main/image/re1.gif'></td>
+         <td align="center" colspan=2><img src='https://github.com/wqynew/RL-based-navigation/blob/main/image/re2.gif'></td>
        </tr>
     </tbody>
   </table>
