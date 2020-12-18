@@ -14,13 +14,9 @@ This is the implementation of our RA-L paper [arXiv](https://arxiv.org/abs/1912.
 * The files in './test/evaluation1' are for cross-scene evaluation; The files in './test/evaluation2' are for cross-target evaluation.
 
 ## Results
+* Cross-scene Generalization on AI2-THOR
 <div align="center">
   <table style="width:100%" border="0">
-    <thead>
-        <tr>
-            <th>Cross-scene Generalization on AI2-THOR</th>
-        </tr>
-    </thead>
     <tbody>
        <tr>
          <td align="center" colspan=1><img src='https://github.com/wqynew/NeoNav/blob/master/image/Gif-Home_011_1_001110011030101_001110005720101.gif'></td>
@@ -29,11 +25,12 @@ This is the implementation of our RA-L paper [arXiv](https://arxiv.org/abs/1912.
          <td align="center" colspan=1><img src='https://github.com/wqynew/NeoNav/blob/master/image/Gif-Home_013_1_001310002970101_001310004330101.gif'></td>
        </tr>
     </tbody>
-    <thead>
-        <tr>
-            <th>Transfer to the real world</th>
-        </tr>
-    </thead>
+  </table>
+</div>
+
+* Transfer to the real world
+<div align="center">
+  <table style="width:100%" border="0">
     <tbody>
        <tr>
          <td align="center" colspan=2><img src='https://github.com/wqynew/NeoNav/blob/master/image/Gif-Home_011_1_001110011030101_001110005720101.gif'></td>
