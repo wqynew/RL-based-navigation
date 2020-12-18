@@ -1,13 +1,13 @@
 # Reinforcement Learning-based Visual Navigation with Information-Theoretic Regularization
-This is the implementation of our RA-L paper[arXiv](https://arxiv.org/abs/1912.04078), training and evaluation on [AI2-THOR](https://github.com/allenai/ai2thor).<br>
+This is the implementation of our RA-L paper [arXiv](https://arxiv.org/abs/1912.04078), training and evaluation on [AI2-THOR](https://github.com/allenai/ai2thor).<br>
 ## Navigation Model
 ![](https://github.com/wqynew/NeoNav/raw/master/image/overview.png)
 ## Implementation
 ### Training
 * The environment: Cuda 10.0, Python 3.6.4, PyTorch 1.0.1 
 * Please install [AI2-THOR](https://github.com/allenai/ai2thor) Version 2.1.0 and modify the "controller.py" of AI2-THOR as follows.
-For class BFSController:
-   a) add function:
+* For class BFSController:
+   * add function:
     
     def getgoal(self,idx):
         self.goal={}
@@ -25,7 +25,8 @@ For class BFSController:
             #self.gkeys=["Cabinet","Towel","TowelHolder"]
         for ele in self.gkeys:
             self.goal[ele]=[]
-   b) modify function:
+            
+   * modify function:
     
     def search_all_closed(self, scene_name):
         self.scene_name=scene_name
