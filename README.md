@@ -41,8 +41,8 @@ This is the implementation of our RA-L paper [arXiv](https://arxiv.org/abs/1912.
   <table style="width:100%" border="0">
     <tbody>
        <tr>
-         <td align="center" colspan=2><img src='https://github.com/wqynew/RL-based-navigation/blob/main/image/re1.gif'></td>
-         <td align="center" colspan=2><img src='https://github.com/wqynew/RL-based-navigation/blob/main/image/re2.gif'></td>
+         <td align="center" colspan=2><img src='https://github.com/wqynew/RL-based-navigation/blob/main/image/re3.gif'></td>
+         <td align="center" colspan=2><img src='https://github.com/wqynew/RL-based-navigation/blob/main/image/re4.gif'></td>
        </tr>
     </tbody>
   </table>
