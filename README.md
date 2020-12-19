@@ -14,7 +14,7 @@ This is the implementation of our RA-L paper [arXiv](https://arxiv.org/abs/1912.
 * The files in './test/evaluation1' are for cross-scene evaluation; The files in './test/evaluation2' are for cross-target evaluation.
 
 ## Results
-* Cross-scene Generalization on AI2-THOR
+* Cross-scene generalization on AI2-THOR
 <div align="center">
   <table style="width:100%" border="0">
     <thead>
