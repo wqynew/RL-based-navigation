@@ -48,8 +48,10 @@ This is the implementation of our RA-L paper [arXiv](https://arxiv.org/abs/1912.
   </table>
 </div>
 
-    * The navigation system takes as input data from four real-time camera sensors and a target image at each time step, to predict the optimal navigation action. 
-    * The action command is converted to the wheel velocity and passed to the robot. For example, the move right action in A is converted to rotate right at ![1](http://latex.codecogs.com/svg.latex?45^\circ/s) for 2s, move forward at 0.25m/s for 2s, and rotate left at 45^\circ/s for 2s. These commands are published with a frequency of 5Hz. It is complex due to the movementdirection restrictions of the TurtleBot.
+    * The navigation system takes as input data from four real-time camera sensors and a target image at each time step, to predict the optimal discrete navigation action. 
+    * The action command is converted to the wheel velocity and passed to the robot. 
+    * For example, the move right action is converted to rotate right at 45^\circ/s for 2s, move forward at 0.25m/s for 2s, and rotate left at 45^\circ/s for 2s. 
+    * These commands are published with a frequency of 5Hz. It is complex due to the movementdirection restrictions of the TurtleBot.
 
 ## Contact
 To ask questions or report issues please open an issue on the [issues tracker](https://github.com/wqynew/RL-based-navigation/issues).
