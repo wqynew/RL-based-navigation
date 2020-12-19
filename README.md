@@ -5,7 +5,7 @@ This is the implementation of our RA-L paper [arXiv](https://arxiv.org/abs/1912.
 ### Training
 * The environment: Cuda 10.0, Python 3.6.4, PyTorch 1.0.1 
 * Please install [AI2-THOR](https://github.com/allenai/ai2thor) Version 2.1.0 and modify the "controller.py" of AI2-THOR as [FILE](https://github.com/wqynew/RL-based-navigation/blob/main/change.txt).
-* Our trained model can be downloaded from [HERE](https://drive.google.com/open?id=182D_0hP7orpJKyDDLlUyV4URwT3Rt0Ux). If you plan to train your own navigation model from scratch, some suggestions are provided:
+* Our trained model can be downloaded from [HERE](https://drive.google.com/file/d/1TT31fJ6hoLaJyxQ410MTuyjYILjweeqE/view?usp=sharing). If you plan to train your own navigation model from scratch, some suggestions are provided:
     * Run the training model: python3 network.py
     * Please first run on 20 Kitchen scenes until it converges. Then increase the trining scenes to 40 (20 for kitchen, 20 for living room.) Finally, you can run on 80 training scenes.
     
