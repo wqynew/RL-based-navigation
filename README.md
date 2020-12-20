@@ -12,6 +12,8 @@ This is the implementation of our RA-L paper [arXiv](https://arxiv.org/abs/1912.
 ### Testing
 * To evaluate our model, please run "python3 eve1_checkpoint.py" 
 * The files in './test/evaluation1' are for cross-scene evaluation; The files in './test/evaluation2' are for cross-target evaluation.
+* The video can be downloaded from [HERE](https://drive.google.com/file/d/1ANSU5Uoe9sm1MThLNyLcvR0CBdmWiOJf/view?usp=sharing).
+
 
 ## Results
 * Cross-scene generalization on AI2-THOR
